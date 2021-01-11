@@ -1,0 +1,6 @@
+[0111/001420.352:ERROR:directory_reader_win.cc(43)] FindFirstFile: Системе не удается найти указанный путь. (0x3)
+[0111/021148.249:ERROR:process_info.cc(359)] UncheckedAllocate
+[0111/021148.268:ERROR:process_info.cc(359)] UncheckedAllocate
+[0111/021148.277:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\78436\AppData\Local\Temp\scoped_dir8032_1690028421\Crashpad\attachments\df1b91bf-ebf4-4638-9384-7dfe7ea444fa: Системе не удается найти указанный путь. (0x3)
+[0111/021340.182:ERROR:process_info.cc(359)] UncheckedAllocate
+[0111/021340.208:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\78436\AppData\Local\Temp\scoped_dir10396_983942030\Crashpad\attachments\2825f8e4-5309-4ee0-acc7-e6a859b8496a: Системе не удается найти указанный путь. (0x3)
